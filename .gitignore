@@ -1,0 +1,5 @@
+.env
+.bashrc
+.npm/
+.vscode/
+Library/
