@@ -1,5 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
+	name = Dev Einstein Punk
+	email = deveinpunk@github.com
 # Please adapt and uncomment the following lines:
 #	name = Dev Einstein Punk
 #	email = deveinpunk@github.com
